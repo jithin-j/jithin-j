@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi There <img src = "https://github.com/jithin-j/jithin-j/blob/main/waving-hi.gif" width = "29px" /> I'm Jithin
 
 <!--
 **jithin-j/jithin-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
