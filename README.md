@@ -13,6 +13,16 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jithin-j/count.svg" />
 </p>
+  
+# <h1 align = "left"> Languages and tools </h1>
+  <p align = "left">
+    <a href = "https://www.w3schools.com/CPP/default.asp"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width = "40px" height = "40px" /> </a>  
+    <a href = "https://www.geeksforgeeks.org/c-language-set-1-introduction/"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width = "40px" height = "40px"/> </a>
+    <a href = "https://www.oracle.com/in/java/technologies/"> <img src = "https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="40px" height = "40px"/> </a>
+    <a href = "https://www.python.org/"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40px" height = "40px"/> </a>
+    <a href = "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img src = "https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="40px" height = "40px"/> </a>
+    <a href = "https://www.w3schools.com/css/"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="40px" height = "40px"/> </a>
+   </p>
 
 # <h1 align="center"> GitHub Stats 👨‍💻 </h1>
 <div align = "center">
