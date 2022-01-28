@@ -27,6 +27,7 @@
     <a href = "https://getbootstrap.com/"> <img src = "https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" width="40px" height = "40px"/> </a>
     <a href = "https://reactjs.org/"> <img src = "https://cdn.worldvectorlogo.com/logos/react-1.svg" width="40px" height = "40px"/> </a>
     <a href = "https://nodejs.org/en/"> <img src = "https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" width="40px" height = "40px"/> </a>
+    <a href = "https://www.mongodb.com/"> <img src = "https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="40px" height = "40px"/> </a>
     <a href = "https://cloud.google.com/"> <img src = "https://pbs.twimg.com/profile_images/1190319303041724417/1a61e4pu_400x400.jpg" width="40px" height = "40px"/> </a>
    </p>
 
