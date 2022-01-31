@@ -39,6 +39,8 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jithin-j&show_icons=true&count_private=true&theme=tokyonight&line_height=40" />
   </a>
+  <br />
+  <br />
   <a href = "">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-j" alt="jithin" />
   </a>
