@@ -5,7 +5,7 @@
   
 # <h2 align="left">Connect with me 💻 📱
 <p align = "left">
-  <a href = "https://www.linkedin.com/in/jithin-jagadeesh-94b787200/"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" height = "30px"  /> </a>
+  <a href = "https://www.linkedin.com/in/jithin-jagadeesh/"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" height = "30px"  /> </a>
   <a href="mailto:jithinjagadeesh1@gmail.com"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height = "30px"  style = "margin-left: 15px;"/> </a>
   <a href="https://www.hackerrank.com/jithinjagadeesh1"> <img src= "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width = "30px"/> </a>
 </p>
