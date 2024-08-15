@@ -1,7 +1,7 @@
 # <h1 align="center"> Hi there <img src = "https://github.com/jithin-j/jithin-j/blob/main/waving-hi.gif" width = "29px" /> I'm Jithin </h1>
 
 <h2 align="left">About me ℹ️ </h2>
-<p>I am an enthusiastic and highly driven CSE student from Model Engineering College, Thrikkakara. I'm very passionate about programming and full-stack web development. I am always looking for an opportunity to learn and improve my skills.</p>
+<p>I am an enthusiastic and highly driven CSE undergraduate from Model Engineering College, Thrikkakara. I'm very passionate about programming and full-stack web development. I am always looking for an opportunity to learn and improve my skills.</p>
   
 # <h2 align="left">Connect with me 💻 📱
 <p align = "left">
